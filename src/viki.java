@@ -1,4 +1,7 @@
 
 public class viki {
 
+	public static void main(String[] args) {
+		System.out.println("viki editted");
+	}
 }
